@@ -1,0 +1,12 @@
+- name: 获取扩展程序版本
+  testCaseId: fetch_extension--001
+  request:
+    method: post
+    url: http://crx-dc-api.cqttech.com/api/v2.extsync/fetch_extension?
+    data:
+      union_id: 1261
+      bversion: 6.0.10.30
+      appid: 96
+      product: DCBrowser
+      browser_name: ChromeCore
+      t: 13387257034220801

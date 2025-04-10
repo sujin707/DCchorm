@@ -1,0 +1,10 @@
+#用户信息
+- name: 用户正确的请求头信息
+  testCaseId: uesrinfo-001
+  request:
+    method: get
+    url: http://vip-dc-api.cqttech.com/api/v1/member/info?
+    data:
+      appid: 96
+      projectid: 96
+      unionid: 1260

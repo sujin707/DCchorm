@@ -1,0 +1,6 @@
+#获取设备id信息
+- name: 用例1
+  testCaseId: getdevices-001
+  request:
+    method: get
+    url: http://user-dc-api.cqttech.com/user/getdevices?

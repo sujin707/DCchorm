@@ -1,0 +1,12 @@
+- name: 更新同步设置的配置信息
+  testCaseId: updateconfigs--001
+  request:
+    method: post
+    url: http://sync-dc-api.cqttech.com/sync/updateconfigs?
+    data:
+      union_id: 1261
+      bversion: 6.0.10.30
+      appid: 96
+      product: DCBrowser
+      pcid: a911217c3c2e868a9124d38fb85953af
+      t: 1

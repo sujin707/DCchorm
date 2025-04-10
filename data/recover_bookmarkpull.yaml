@@ -1,0 +1,11 @@
+- name: 查看某个历史书签的具体书签信息
+  testCaseId: bookmarkpull--001
+  request:
+    method: post
+    url: http://sync-dc-api.cqttech.com/recovery/bookmarkpull?
+    data:
+      union_id: 1261
+      bversion: 6.0.10.30
+      appid: 96
+      product: DCBrowser
+      pcid: a911217c3c2e868a9124d38fb85953af
