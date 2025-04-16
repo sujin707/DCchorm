@@ -1,0 +1,4 @@
+获取设置页面云同步的的设置数据获取云同步版本、配置成功，版本号：397
+{'uid': 2323603, 'supported_settable_types': '31', 'code': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHAiOjAsImF1dGhvcml6ZV9pZCI6MTI4MzE1ODcsImRhdGFzY29wZSI6ImJhc2UiLCJleHAiOjE3NDU1NDU3NDAsImlkZW50aXR5IjoxMjc3NTcwNywibmljZSI6IuaYn-S5i-aPkOedoyIsIm9yaWdfaWF0IjoxNzQ0MjQ5NzQwLCJyZWZyZXNoIjoyNTkyMDAwMDAwMDAwMDAwLCJ0aWQiOjkxNjY0MDg0MTc5Mzk2MTk4NCwidHlwZSI6Mn0.YGmqNXFZBKTeWbJvcYnPDKWvTLnr6n-GjA8sxK6ejjY', 'data': '{"sync_settable_types": 17, "version": 399}'}
+更新同步设置的配置信息获取云同步版本、配置成功，版本号：yes
+updateconfigs--001

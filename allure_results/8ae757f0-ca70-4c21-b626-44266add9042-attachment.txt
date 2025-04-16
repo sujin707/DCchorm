@@ -1,0 +1,1 @@
+获取鼠标、书签、笔记等版本数据获取云同步版本、配置成功，版本号：{'bookmarks': 4882, 'mouse_gestures': 41, 'normal': 261, 'note': 15, 'ntp': 52, 'passwords': 59, 'theme': 169}

@@ -1,0 +1,13 @@
+#   第6个接口配置
+- name: 恢复书签数据后，拉取书签数据下来
+  testCaseId: pull--001
+  request:
+    method: post
+    url: http://sync-dc-api.cqttech.com/sync/pull?
+    data:
+      union_id: 1261
+      bversion: 6.0.10.30
+      appid: 96
+      product: DCBrowser
+      pcid: a911217c3c2e868a9124d38fb85953af
+      t: 1

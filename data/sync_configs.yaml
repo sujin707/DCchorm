@@ -1,0 +1,13 @@
+#获取设备配置信息数据集合
+
+
+- name: 获取设置页面云同步的的设置数据
+  testCaseId: getconfigs--001
+  request:
+    method: post
+    url: http://sync-dc-api.cqttech.com/sync/getconfigs?
+    data:
+      union_id: 1261
+      bversion: 6.0.10.30
+      appid: 96
+      product: DCBrowser

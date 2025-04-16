@@ -1,0 +1,6 @@
+#获取删除后的设备信息数据
+- name: 退出某个设备后，刷新剩余设备信息
+  testCaseId: forcelogout_001
+  request:
+    method: get
+    url: http://user-dc-api.cqttech.com/user/forcelogout?

@@ -1,0 +1,10 @@
+- name: 获取鼠标、书签、笔记等版本数据
+  testCaseId: getsettingsversions--001
+  request:
+    method: post
+    url: http://sync-dc-api.cqttech.com/sync/getsettingsversions?
+#      data:
+#        union_id: 1261
+#        bversion: 6.0.10.30
+#        appid: 96
+#        product: DCBrowser

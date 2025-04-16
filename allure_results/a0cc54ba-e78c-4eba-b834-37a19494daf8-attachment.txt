@@ -1,0 +1,2 @@
+登录成功，获取鉴权码1,获取到的uid：2323603，鉴定码：eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHAiOjAsImF1dGhvcml6ZV9pZCI6MTI4MzE1ODcsImRhdGFzY29wZSI6ImJhc2UiLCJleHAiOjE3NDU1NDU3NDAsImlkZW50aXR5IjoxMjc3NTcwNywibmljZSI6IuaYn-S5i-aPkOedoyIsIm9yaWdfaWF0IjoxNzQ0MjQ5NzQwLCJyZWZyZXNoIjoyNTkyMDAwMDAwMDAwMDAwLCJ0aWQiOjkxNjY0MDg0MTc5Mzk2MTk4NCwidHlwZSI6Mn0.YGmqNXFZBKTeWbJvcYnPDKWvTLnr6n-GjA8sxK6ejjY
+用例1，返回的设备ID是[{'online_id': '5779914', 'last_online_time': '1744249740', 'device_name': '', 'device_id': 'a911217c3c...', 'ip': '183.47.51.143', 'is_current': True}]

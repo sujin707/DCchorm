@@ -1,0 +1,2 @@
+用例1，返回的设备ID是[{'online_id': '5779914', 'last_online_time': '1744249740', 'device_name': '', 'device_id': 'a911217c3c...', 'ip': '183.47.51.143', 'is_current': True}]
+获取到的是本机设备ID：5779914,无非本机设备ID，不走退出其他设备流程
